@@ -213,23 +213,6 @@ Developing productivity-focused applications with CRUD functionality, API integr
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Hamza-Web-Dev&show_icons=true&hide_border=true&rank_icon=github"
-    alt="Hamza's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Web-Dev&layout=compact&hide_border=true"
-    alt="Hamza's Top Languages"
-  />
-</p>
-
----
 ## 🔥 GitHub Streak
 
 <p align="center">
