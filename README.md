@@ -6,6 +6,12 @@ I’m a **Full Stack Developer** passionate about building modern, scalable, and
 
 I enjoy transforming ideas and designs into clean, responsive, and functional digital experiences while continuously expanding my skills across frontend, backend, databases, and modern development tools.
 
+<p align="center">
+  <a href="https://hamza-web-dev.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio"/>
+  </a>
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -137,6 +143,18 @@ I enjoy transforming ideas and designs into clean, responsive, and functional di
 
 ## 📌 Featured Projects
 
+### 🚀 MERN Portfolio Website
+
+A full-stack portfolio website built with the MERN stack — projects loaded from MongoDB and a working contact form.
+
+**Technologies:**
+
+`React.js` · `Node.js` · `Express.js` · `MongoDB`
+
+**[View on GitHub](https://github.com/Hamza-Web-Dev/portfolio)** · **[Live Demo](https://hamza-web-dev.github.io/portfolio/)**
+
+---
+
 ### 🌐 Full-Stack Web Applications
 
 Building full-stack applications that combine modern frontend interfaces with backend APIs and database systems.
@@ -222,21 +240,34 @@ Developing productivity-focused applications with CRUD functionality, API integr
   />
 </p>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Hamza-Web-Dev&show_icons=true&theme=radical"
+    alt="Hamza's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Web-Dev&layout=compact&theme=radical"
+    alt="Top Languages"
+  />
+</p>
+
 ## 🤝 Let's Connect
 
 <p align="left">
   <a href="https://github.com/Hamza-Web-Dev">
     <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"/>
   </a>
 </p>
 
 * 🐙 **GitHub:** [Hamza-Web-Dev](https://github.com/Hamza-Web-Dev)
 * 💼 **LinkedIn:** Add your LinkedIn profile
-* 🌐 **Portfolio:** Add your portfolio
-* 📧 **Email:** Add your professional email
+* 🌐 **Portfolio:** [hamza-web-dev.github.io/portfolio](https://hamza-web-dev.github.io/portfolio/)
+* 📧 **Email:** [hamzasif@gmail.com](mailto:hamzasif@gmail.com)
 
 ---
 
