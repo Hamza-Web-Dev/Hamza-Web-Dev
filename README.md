@@ -1,69 +1,58 @@
-Hi,
-I'm Hamza 👋
-<b>Full Stack MERN Developer<b>
+## 🛠️ Tech Stack
 
-I’m a <b>Full Stack Developer<b> focused on building modern, scalable, and user-focused web applications.
+### Frontend
 
-I enjoy turning ideas and designs into clean, functional products and continuously improving my skills across both frontend and backend development.
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img src="https://skillicons.dev/icons?i=html" width="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img src="https://skillicons.dev/icons?i=css" width="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://skillicons.dev/icons?i=javascript" width="40"/>
+</a>
+<a href="https://react.dev/">
+  <img src="https://skillicons.dev/icons?i=react" width="40"/>
+</a>
+<a href="https://tailwindcss.com/">
+  <img src="https://skillicons.dev/icons?i=tailwind" width="40"/>
+</a>
 
-🚀 About Me
-💻 Full Stack MERN Developer
-⚛️ Experienced with React.js and modern frontend development
-🟢 Building backend applications with Node.js & Express.js
-🍃 Working with MongoDB and SQL databases
-🎨 Creating responsive interfaces with Tailwind CSS
-🧩 Interested in scalable application architecture and clean code
-📚 Continuously learning and improving my development skills
-🛠️ Tech Stack
-Frontend
+### Backend
 
-<p> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" /> </p>
+<a href="https://nodejs.org/">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40"/>
+</a>
+<a href="https://expressjs.com/">
+  <img src="https://skillicons.dev/icons?i=express" width="40"/>
+</a>
 
-Backend
+### Database
 
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express" /> </p>
+<a href="https://www.mongodb.com/">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40"/>
+</a>
+<a href="https://www.mysql.com/">
+  <img src="https://skillicons.dev/icons?i=mysql" width="40"/>
+</a>
 
-Database
+### Tools & Technologies
 
-<p> <img src="https://skillicons.dev/icons?i=mongodb,mysql" /> </p>
-
-Tools & Technologies
-
-<p> <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" /> </p>
-
-📌 Featured Projects
-🛒 E-Commerce Platform
-
-A full-stack e-commerce application built with the MERN stack.
-
-Tech: React.js · Node.js · Express.js · MongoDB
-
-📋 Task Management Application
-
-A modern task management platform with authentication, CRUD operations, and a responsive interface.
-
-Tech: React.js · Node.js · Express.js · MongoDB
-
-🌐 Full-Stack Web Application
-
-A production-style web application focused on clean UI, responsive design, and efficient frontend/backend communication.
-
-Tech: React.js · JavaScript · Node.js · Express.js
-
-More projects coming soon as I continue building and expanding my portfolio.
-
-📈 Currently
-🔨 Building full-stack MERN applications
-🧠 Strengthening backend and database development
-🏗️ Learning better application architecture and scalable development
-🚀 Working toward becoming a highly skilled full-stack engineer
-🤝 Let's Connect
-
-<p> <a href="https://github.com/Hamza-Web-Dev"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
-
-💡 "Build. Learn. Improve. Repeat."
-
-Thanks for visiting my profile!
+<a href="https://git-scm.com/">
+  <img src="https://skillicons.dev/icons?i=git" width="40"/>
+</a>
+<a href="https://github.com/">
+  <img src="https://skillicons.dev/icons?i=github" width="40"/>
+</a>
+<a href="https://www.docker.com/">
+  <img src="https://skillicons.dev/icons?i=docker" width="40"/>
+</a>
+<a href="https://code.visualstudio.com/">
+  <img src="https://skillicons.dev/icons?i=vscode" width="40"/>
+</a>
+<a href="https://www.postman.com/">
+  <img src="https://skillicons.dev/icons?i=postman" width="40"/>
+</a>
 
 <!--
 **Hamza-Web-Dev/Hamza-Web-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
