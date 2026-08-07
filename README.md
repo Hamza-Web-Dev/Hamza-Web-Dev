@@ -1,7 +1,8 @@
-Hi, I'm Hamza 👋
-Full Stack MERN Developer
+Hi,
+I'm Hamza 👋
+<b>Full Stack MERN Developer<b>
 
-I’m a Full Stack Developer focused on building modern, scalable, and user-focused web applications.
+I’m a <b>Full Stack Developer<b> focused on building modern, scalable, and user-focused web applications.
 
 I enjoy turning ideas and designs into clean, functional products and continuously improving my skills across both frontend and backend development.
 
