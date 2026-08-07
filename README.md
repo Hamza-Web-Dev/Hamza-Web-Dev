@@ -216,22 +216,28 @@ Developing productivity-focused applications with CRUD functionality, API integr
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamza-Web-Dev&show_icons=true&hide_border=true&rank_icon=github" alt="Hamza's GitHub Stats"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Hamza-Web-Dev&show_icons=true&hide_border=true&rank_icon=github"
+    alt="Hamza's GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza-Web-Dev&hide_border=true" alt="GitHub Streak"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Web-Dev&layout=compact&hide_border=true"
+    alt="Hamza's Top Languages"
+  />
 </p>
 
 ---
-
-## 📌 Most Used Languages
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Web-Dev&layout=compact&hide_border=true" alt="Top Languages"/>
+  <img
+    src="https://streak-stats.demolab.com?user=Hamza-Web-Dev&hide_border=true"
+    alt="Hamza's GitHub Streak"
+  />
 </p>
-
----
 
 ## 🤝 Let's Connect
 
