@@ -1,285 +1,189 @@
-# Hi, I'm Hamza 👋
+<p align="center">
+  <img src="banner.svg" alt="Hamza - Full Stack Developer" width="100%" />
+</p>
 
-### Full Stack MERN Developer
+<br>
 
-I’m a **Full Stack Developer** passionate about building modern, scalable, and user-focused web applications.
-
-I enjoy transforming ideas and designs into clean, responsive, and functional digital experiences while continuously expanding my skills across frontend, backend, databases, and modern development tools.
+```
+====================================================================
+  ███  H A M Z A   W E B   D E V  ███
+  FULL-STACK MERN DEVELOPER - NIGHT CITY CODER
+====================================================================
+```
 
 <p align="center">
   <a href="https://hamza-web-dev.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-CLICK%20TO%20ENTER-00f0ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/Hamza-Web-Dev">
+    <img src="https://img.shields.io/badge/GITHUB-Hamza--Web--Dev-ff00e0?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:hamzasif@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-hamzasif%40gmail.com-ffd500?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-39ff14?style=for-the-badge" alt="Status: Online" />
+</p>
+
+> Jacked into the mainframe. Building modern, scalable, and user-focused web applications in the neon glow of the night city. Transforming ideas and designs into clean, responsive, and functional digital experiences — across frontend, backend, databases, and modern development tools.
+
+---
+
+## ▚ ABOUT.ME
+
+```
+$ whoami
+> Full Stack MERN Developer
+```
+
+- 💻 Building full-stack applications with the **MERN stack** (React, Node.js, Express.js, MongoDB)
+- ⚛️ Strong focus on **React.js** and modern frontend development
+- 📘 Working with **JavaScript** and **TypeScript**
+- 🎨 Creating responsive interfaces with **Tailwind CSS**
+- 🔗 Building and consuming **REST APIs**
+- 🧩 Obsessed with clean architecture, reusable components, and maintainable code
+- 🐳 Familiar with Docker-based development environments
+- 🔧 Using Git and GitHub for version control and collaboration
+- 🧪 Interested in testing and improving application reliability
+- 🚀 Working toward becoming a highly skilled full-stack engineer
+
+---
+
+## ▚ TECH.STACK
+
+```
+$ ls ./stack
+```
+
+<p align="center">
+  <a href="https://github.com/Hamza-Web-Dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,git,github,docker,vscode,postman&theme=dark&perline=7" alt="Tech Stack" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
-
-* 💻 Full Stack MERN Developer
-* ⚛️ Strong focus on React.js and modern frontend development
-* 🟢 Building backend applications with Node.js and Express.js
-* 📘 Working with JavaScript and TypeScript
-* 🍃 Developing applications with MongoDB and SQL databases
-* 🎨 Creating responsive interfaces with Tailwind CSS
-* 🔗 Building and consuming REST APIs
-* 🧩 Interested in clean architecture, reusable components, and maintainable code
-* 🐳 Familiar with Docker-based development environments
-* 🔧 Using Git and GitHub for version control and collaboration
-* 🧪 Interested in testing and improving application reliability
-* 📚 Continuously learning new technologies and development practices
-* 🚀 Working toward becoming a highly skilled full-stack engineer
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML5"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS3"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=javascript" width="50" alt="JavaScript"/>
-  </a>
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://skillicons.dev/icons?i=typescript" width="50" alt="TypeScript"/>
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/>
-  </a>
-</p>
-
-### 🎨 Frontend
-
-<p align="left">
-  <a href="https://react.dev/">
-    <img src="https://skillicons.dev/icons?i=react" width="50" alt="React.js"/>
-  </a>
-  <a href="https://tailwindcss.com/">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="Tailwind CSS"/>
-  </a>
-</p>
-
-### ⚙️ Backend
-
-<p align="left">
-  <a href="https://nodejs.org/">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js"/>
-  </a>
-  <a href="https://expressjs.com/">
-    <img src="https://skillicons.dev/icons?i=express" width="50" alt="Express.js"/>
-  </a>
-  <a href="https://www.djangoproject.com/">
-    <img src="https://skillicons.dev/icons?i=django" width="50" alt="Django"/>
-  </a>
-</p>
-
-### 🗄️ Databases
-
-<p align="left">
-  <a href="https://www.mongodb.com/">
-    <img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB"/>
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL"/>
-  </a>
-</p>
-
-### 🔧 Tools & Technologies
-
-<p align="left">
-  <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" width="50" alt="Git"/>
-  </a>
-  <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub"/>
-  </a>
-  <a href="https://www.docker.com/">
-    <img src="https://skillicons.dev/icons?i=docker" width="50" alt="Docker"/>
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://skillicons.dev/icons?i=vscode" width="50" alt="VS Code"/>
-  </a>
-  <a href="https://www.postman.com/">
-    <img src="https://skillicons.dev/icons?i=postman" width="50" alt="Postman"/>
-  </a>
-</p>
-
----
-
-## 💼 Development Experience
+## ▚ EXPERIENCE.LOG
 
 ### Frontend Development
 
-* ⚛️ Developing modern interfaces using React.js
-* 🎨 Building responsive layouts with Tailwind CSS
-* 🧩 Creating reusable React components
-* 🔗 Integrating frontend applications with APIs
-* 📱 Developing responsive experiences across different screen sizes
-* ⚡ Improving frontend performance and usability
-* 🧹 Maintaining clean and reusable code
+- Developing modern interfaces using React.js
+- Building responsive layouts with Tailwind CSS
+- Creating reusable React components
+- Integrating frontend applications with APIs
+- Developing responsive experiences across different screen sizes
+- Improving frontend performance and usability
 
 ### Backend Development
 
-* 🟢 Building RESTful APIs using Node.js and Express.js
-* 🔐 Working with authentication and authorization
-* 📡 Connecting frontend applications with backend services
-* 🗄️ Working with databases and CRUD operations
-* 🧩 Structuring backend applications for maintainability
+- Building RESTful APIs using Node.js and Express.js
+- Working with authentication and authorization
+- Connecting frontend applications with backend services
+- Working with databases and CRUD operations
+- Structuring backend applications for maintainability
 
 ### Testing & Quality
 
-* 🧪 Experience with automated testing workflows
-* 🔍 Writing and executing test cases
-* 🐛 Identifying and troubleshooting application issues
-* ✅ Focused on reliable and maintainable applications
+- Experience with automated testing workflows
+- Writing and executing test cases
+- Identifying and troubleshooting application issues
+- Focused on reliable and maintainable applications
 
 ---
 
-## 📌 Featured Projects
+## ▚ MISSIONS.ACTIVE
 
-### 🚀 MERN Portfolio Website
+### SHEZREEN - Luxury Fashion E-Commerce
+
+A luxury fashion storefront — product catalog served by a MongoDB-backed Express API, with graceful offline fallback and responsive product browsing.
+
+**LOADED MODULES:** `React.js` · `Node.js` · `Express.js` · `MongoDB`
+
+**[View Mission](https://github.com/Hamza-Web-Dev/Shezreen-Web)**
+
+### MERN Portfolio Website
 
 A full-stack portfolio website built with the MERN stack — projects loaded from MongoDB and a working contact form.
 
-**Technologies:**
+**LOADED MODULES:** `React.js` · `Node.js` · `Express.js` · `MongoDB`
 
-`React.js` · `Node.js` · `Express.js` · `MongoDB`
+**[View Mission](https://github.com/Hamza-Web-Dev/portfolio)** · **[Live Demo](https://hamza-web-dev.github.io/portfolio/)**
 
-**[View on GitHub](https://github.com/Hamza-Web-Dev/portfolio)** · **[Live Demo](https://hamza-web-dev.github.io/portfolio/)**
-
----
-
-### 🌐 Full-Stack Web Applications
+### Full-Stack Web Applications
 
 Building full-stack applications that combine modern frontend interfaces with backend APIs and database systems.
 
-**Technologies:**
+**LOADED MODULES:** `React.js` · `JavaScript` · `TypeScript` · `Node.js` · `Express.js` · `MongoDB`
 
-`React.js` · `JavaScript` · `TypeScript` · `Node.js` · `Express.js` · `MongoDB`
+### E-Commerce & Task Management
 
----
+Developing e-commerce functionality and productivity-focused applications — CRUD operations, API integration, authentication, and responsive interfaces.
 
-### 🛒 E-Commerce Applications
+**LOADED MODULES:** `React.js` · `Node.js` · `Express.js` · `MongoDB`
 
-Developing e-commerce functionality with a focus on user experience, responsive interfaces, product management, and backend integration.
-
-**Technologies:**
-
-`React.js` · `Node.js` · `Express.js` · `MongoDB`
+> More missions are being compiled and will be deployed here as the portfolio grows.
 
 ---
 
-### 📋 Task Management Applications
-
-Developing productivity-focused applications with CRUD functionality, API integration, authentication, and responsive interfaces.
-
-**Technologies:**
-
-`React.js` · `Node.js` · `Express.js` · `MongoDB`
-
-> 🚧 More projects are being built and will be added here as my portfolio grows.
-
----
-
-## 📈 Currently
-
-* 🔨 Building full-stack applications with the MERN stack
-* ⚛️ Improving advanced React.js development
-* 📘 Strengthening TypeScript skills
-* 🟢 Improving Node.js and Express.js development
-* 🗄️ Deepening my knowledge of MongoDB and database design
-* 🔗 Building better REST APIs
-* 🏗️ Learning scalable application architecture
-* 🐳 Improving my Docker and development environment skills
-* 🧪 Learning better testing practices
-* 📚 Continuously improving my software engineering fundamentals
-
----
-
-## 🎯 Development Goals
-
-* 🚀 Become a highly skilled Full Stack Engineer
-* ⚛️ Master advanced React.js patterns
-* 📘 Become proficient in TypeScript
-* 🟢 Build production-ready Node.js applications
-* 🏗️ Learn scalable system architecture
-* ☁️ Expand my knowledge of cloud technologies
-* 🔐 Improve application security practices
-* 🧪 Build stronger testing and CI/CD workflows
-* 🌍 Contribute to open-source projects
-
----
-
-## 🧠 What I Care About
-
-* ✨ Clean and maintainable code
-* 🧩 Reusable components
-* 📐 Good application architecture
-* ⚡ Performance
-* 📱 Responsive design
-* 🔐 Security
-* 🧪 Testing
-* 📚 Continuous learning
-* 🤝 Collaboration
-* 🚀 Building useful products
-
----
-
-## 🔥 GitHub Streak
+## ▚ UPLINK.STATS
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Hamza-Web-Dev&hide_border=true"
-    alt="Hamza's GitHub Streak"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hamza-Web-Dev&show_icons=true&title_color=00f0ff&icon_color=ff00e0&text_color=c9d1d9&bg_color=0d0d1a&hide_border=true&border_color=00f0ff&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Web-Dev&layout=compact&title_color=ffd500&text_color=c9d1d9&bg_color=0d0d1a&hide_border=true&border_color=ff00e0&cache_seconds=1800" alt="Top Languages" />
 </p>
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Hamza-Web-Dev&show_icons=true&theme=radical"
-    alt="Hamza's GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Web-Dev&layout=compact&theme=radical"
-    alt="Top Languages"
-  />
+  <img src="https://streak-stats.demolab.com?user=Hamza-Web-Dev&theme=dark&hide_border=true&background=0d0d1a&ring=ff00e0&fire=ffd500&currStreakNum=c9d1d9&sideNums=00f0ff&sideLabels=ffd500&currStreakLabel=ffd500&border=00f0ff" alt="GitHub Streak" />
 </p>
 
-## 🤝 Let's Connect
+---
 
-<p align="left">
+## ▚ UPGRADE.PATH
+
+```
+$ ./current_objectives
+```
+
+- Building full-stack applications with the MERN stack
+- Improving advanced React.js development
+- Strengthening TypeScript skills
+- Improving Node.js and Express.js development
+- Deepening knowledge of MongoDB and database design
+- Building better REST APIs
+- Learning scalable application architecture
+- Improving Docker and development environment skills
+- Learning better testing practices
+- Expanding knowledge of cloud technologies
+- Contributing to open-source projects
+
+---
+
+## ▚ CONNECT
+
+<p align="center">
   <a href="https://github.com/Hamza-Web-Dev">
-    <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GITHUB-Hamza--Web--Dev-ff00e0?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"/>
+  <a href="https://hamza-web-dev.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-CLICK%20TO%20ENTER-00f0ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:hamzasif@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-hamzasif%40gmail.com-ffd500?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-* 🐙 **GitHub:** [Hamza-Web-Dev](https://github.com/Hamza-Web-Dev)
-* 💼 **LinkedIn:** Add your LinkedIn profile
-* 🌐 **Portfolio:** [hamza-web-dev.github.io/portfolio](https://hamza-web-dev.github.io/portfolio/)
-* 📧 **Email:** [hamzasif@gmail.com](mailto:hamzasif@gmail.com)
+---
+
+## ▚ PHILOSOPHY
+
+> **BUILD. LEARN. IMPROVE. REPEAT.**
+
+The best way to become a better developer is to keep building, keep learning, and keep improving.
 
 ---
 
-## 💡 Philosophy
-
-> **Build. Learn. Improve. Repeat.**
-
-I believe the best way to become a better developer is to keep building, keep learning, and keep improving.
-
----
-
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
-
+```
+====================================================================
+  SYS.DISCONNECT
+  THANKS FOR VISITING MY PROFILE
+====================================================================
+```
