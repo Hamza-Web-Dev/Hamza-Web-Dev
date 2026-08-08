@@ -1,4 +1,4 @@
-<p align="center">
+﻿<p align="center">
   <img src="banner.svg" alt="Hamza - Full Stack Developer" width="100%" />
 </p>
 
@@ -98,7 +98,7 @@ A luxury fashion storefront — product catalog served by a MongoDB-backed Expre
 
 **LOADED MODULES:** `React.js` · `Node.js` · `Express.js` · `MongoDB`
 
-**[View Mission](https://github.com/Hamza-Web-Dev/Shezreen-Web)**
+**[View Mission](https://github.com/Hamza-Web-Dev/Shezreen-Web)** · **[Live Demo](https://shezreen-web.vercel.app/)**
 
 ### MERN Portfolio Website
 
@@ -187,3 +187,4 @@ The best way to become a better developer is to keep building, keep learning, an
   THANKS FOR VISITING MY PROFILE
 ====================================================================
 ```
+
